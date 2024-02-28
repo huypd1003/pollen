@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/datasets_pollen/dataset
+train: train
+val: val
+nc: 1
+names: ['pollen']
